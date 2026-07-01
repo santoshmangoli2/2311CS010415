@@ -1,4 +1,5 @@
 # Notification System Design
+<<<<<<< HEAD
 # Campus Notifications Microservice
 
 ## Stage 1 – REST API Design
@@ -332,3 +333,5 @@ created_at
 - Scalable relational database schema.
 - Supports efficient querying using indexed primary and foreign keys.
 - Easy to extend with additional notification types and user roles.
+=======
+>>>>>>> 81927c42faf2fbff29a2635800a39969f77d651b
